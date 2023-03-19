@@ -1,9 +1,8 @@
 # 하루하루 합리적 소비, 하루장
 
-![splash](https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png)
+
 <img src="https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png"  width="500">
 
-![icon](https://user-images.githubusercontent.com/84782877/226186181-b5ffd871-0601-4e71-adc3-a805498a9b1c.png)
 <img src="https://user-images.githubusercontent.com/84782877/226186181-b5ffd871-0601-4e71-adc3-a805498a9b1c.png"  width="200">
 
 
@@ -16,11 +15,13 @@
 16개 품목에 대한 가격정보를 불러와 최저가, 최고가를 비교하고, 구입하고자 하는 물건의 양을 정하는 등 
 소비자들이 의사결정을 할 수 있는 기초자료로 사용하였습니다.
 
+
 ## 프로젝트 목적
 
 본 프로젝트의 목적은 '지금 사려는 제품은 저렴한 걸까?' 라는 의문을  스마트폰의 앱 하나로 해결하는 것입니다.
 
 장보기 전 계획을 세울 때도, 장보러 가서도 사용자에게 가격 정보를 제공하여 보다 적정한 가격에 구매를 할 수 있도록 도움을 주고자합니다.
+
 
 ## 상세페이지
 
