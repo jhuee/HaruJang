@@ -1,6 +1,6 @@
-# 하루하루 합리적 소비, 하루장
+# 하루하루 합리적 소비, 하루장 🛒
 
-<img src="https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png"  width="200">
+<img src="https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png"  width="300">
 
 
 
