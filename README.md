@@ -13,6 +13,7 @@
 본 프로젝트는 서울시에서 제공하는 ‘서울시 생필품 농수축산물 가격 정보’ 데이터를 이용하여 자치구별 전통시장과 대형마트의 
 16개 품목에 대한 가격정보를 불러와 최저가, 최고가를 비교하고, 구입하고자 하는 물건의 양을 정하는 등 
 소비자들이 의사결정을 할 수 있는 기초자료로 사용하였습니다.
+
 <br>
 <br>
 ## 프로젝트 목적
@@ -20,6 +21,7 @@
 본 프로젝트의 목적은 '지금 사려는 제품은 저렴한 걸까?' 라는 의문을  스마트폰의 앱 하나로 해결하는 것입니다.
 
 장보기 전 계획을 세울 때도, 장보러 가서도 사용자에게 가격 정보를 제공하여 보다 적정한 가격에 구매를 할 수 있도록 도움을 주고자합니다.
+
 <br>
 <br>
 
@@ -31,11 +33,12 @@
 ![010](https://user-images.githubusercontent.com/84782877/226186256-065fe838-6d2f-4f3e-97d9-bdd4698be387.png)
 ![011](https://user-images.githubusercontent.com/84782877/226186259-1ee5273f-c8ff-4506-b952-8044f9d10301.png)
 ![012](https://user-images.githubusercontent.com/84782877/226186246-1f1c26a2-ee66-455e-ac5a-1d04c326ddf5.png)
+
 <br>
 <br>
 
 ## etc
-🛠 expo
-🛠 ReactNatvie
-🛠 NativeBase.io
+🛠 expo <br>
+🛠 ReactNatvie <br>
+🛠 NativeBase.io <br>
 🛠 [data.seoul](https://data.seoul.go.kr/)
