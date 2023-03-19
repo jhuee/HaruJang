@@ -1,7 +1,10 @@
 # 하루하루 합리적 소비, 하루장
 
 ![splash](https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png)
+<img src="https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png"  width="500">
+
 ![icon](https://user-images.githubusercontent.com/84782877/226186181-b5ffd871-0601-4e71-adc3-a805498a9b1c.png)
+<img src="https://user-images.githubusercontent.com/84782877/226186181-b5ffd871-0601-4e71-adc3-a805498a9b1c.png"  width="200">
 
 
 ## 프로젝트 개요
