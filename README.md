@@ -1,8 +1,6 @@
 # 하루하루 합리적 소비, 하루장
 
-<img src="https://user-images.githubusercontent.com/84782877/226186181-b5ffd871-0601-4e71-adc3-a805498a9b1c.png"  width="200">
-
-<img src="https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png"  width="500">
+<img src="https://user-images.githubusercontent.com/84782877/226186151-64358063-0240-454f-a635-93926ffb7813.png"  width="200">
 
 
 
@@ -22,11 +20,10 @@
 본 프로젝트의 목적은 '지금 사려는 제품은 저렴한 걸까?' 라는 의문을  스마트폰의 앱 하나로 해결하는 것입니다.
 
 장보기 전 계획을 세울 때도, 장보러 가서도 사용자에게 가격 정보를 제공하여 보다 적정한 가격에 구매를 할 수 있도록 도움을 주고자합니다.
+<br>
+<br>
 
-<br>
-<br>
 ## 상세페이지
-
 
 ![007](https://user-images.githubusercontent.com/84782877/226186249-0fc91079-b206-4544-978b-9149bd639a54.png)
 ![008](https://user-images.githubusercontent.com/84782877/226186254-aa98691f-a182-465d-a947-85326d181332.png)
@@ -34,4 +31,11 @@
 ![010](https://user-images.githubusercontent.com/84782877/226186256-065fe838-6d2f-4f3e-97d9-bdd4698be387.png)
 ![011](https://user-images.githubusercontent.com/84782877/226186259-1ee5273f-c8ff-4506-b952-8044f9d10301.png)
 ![012](https://user-images.githubusercontent.com/84782877/226186246-1f1c26a2-ee66-455e-ac5a-1d04c326ddf5.png)
+<br>
+<br>
 
+## etc
+🛠 expo
+🛠 ReactNatvie
+🛠 NativeBase.io
+🛠 [data.seoul](https://data.seoul.go.kr/)
